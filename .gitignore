@@ -1,0 +1,7 @@
+# Ignore the Heavy Weights
+MiniDataset/
+.venv/
+__pycache__/
+frontend/node_modules/
+frontend/build/
+*.pyc
